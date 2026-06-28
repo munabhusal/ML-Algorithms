@@ -1,0 +1,19 @@
+#Linear Regression
+LinearRegression/.ipynb_checkpoints
+LinearRegression/__pycache__
+LinearRegression/.vscode    
+
+#Logistic Regression
+LogisticRegression/.ipynb_checkpoints
+LogisticRegression/__pycache__
+LogisticRegression/.vscode
+
+#Gradient Descent
+GradientDescent/.ipynb_checkpoints
+GradientDescent/__pycache__
+GradientDescent/.vscode
+
+#Decision Tree Foundation
+DecisionTreeFoundation/.ipynb_checkpoints
+DecisionTreeFoundation/__pycache__
+DescisionTreeFoundation/.vscode
